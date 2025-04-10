@@ -6,7 +6,7 @@
 ### :blue_heart: **My experiences**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,js,css,c,cpp,css ,csharp,git,gitlab,ai,r" />
+    <img src="https://skillicons.dev/icons?i=python,html,js,css,c,cpp,css ,cs,git,gitlab,ai,r" />
   </a>
 </p>
 
