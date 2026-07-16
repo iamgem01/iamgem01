@@ -12,9 +12,8 @@
 
 
 ### :exploding_head: **My expectations in 2026**
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
-### :grey_exclamation: Update later
+### :grey_exclamation: Update later !
 
 ### :mag: Find me at
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/iamgem01)
