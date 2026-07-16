@@ -6,13 +6,13 @@
 ### :blue_heart: **My experiences**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,js,css,c,cpp,css,cs,git,gitlab,ai,r " />
+    <img src="https://skillicons.dev/icons?i=python,figma,java,mysql,react,mongodb,html,js,css,c,cpp,css,cs,git,gitlab,ai,r " />
   </a>
 </p>
 
 
-### :exploding_head: **My expectations in 2025**
-[![My Skills](https://skillicons.dev/icons?i=figma,aws,docker,flutter,go,rust,php,java,mysql,mongodb,nodejs,rust,react)](https://skillicons.dev)
+### :exploding_head: **My expectations in 2026**
+[![My Skills](https://skillicons.dev/icons?i=powerbi)](https://skillicons.dev)
 
 ### :grey_exclamation: Update later
 
