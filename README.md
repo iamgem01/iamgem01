@@ -3,7 +3,7 @@
 
 
 
-### :blue_heart: **My experiences**
+### :blue_heart: **What language i learnt**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,figma,java,mysql,react,mongodb,html,js,css,c,cpp,css,cs,git,gitlab,ai " />
@@ -11,7 +11,6 @@
 </p>
 
 
-### :exploding_head: **My expectations in 2026**
 
 ### :grey_exclamation: Update later !
 
