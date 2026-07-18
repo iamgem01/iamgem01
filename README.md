@@ -12,8 +12,6 @@
 
 
 
-### :grey_exclamation: Update later !
-
 ### :mag: Find me at
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/iamgem01)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tran-bich-ngoc-224b26245/)
