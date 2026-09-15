@@ -1,147 +1,73 @@
-<div align="center">
+from pathlib import Path
 
-👋 Hi, I'm Gemma
+readme = r'''<div align="center">
 
-Software Engineering Student · Builder · Lifelong Learner
+# Hi, I'm Gemma 👋
+
+### Software Engineering Student
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=6FCF97&center=true&vCenter=true&width=650&lines=Hi+guys%2C+I'm+Gemma!;Bonjour+%C3%A0+tous%2C+je+suis+Gemme!;I'm+studying+Software+Engineering;Building+things+with+code+%26+curiosity;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Hi+guys%2C+I'm+Gemma!;Bonjour+%C3%A0+tous%2C+je+suis+Gemme!;I'm+studying+Software+Engineering;Building+and+learning+every+day." alt="Typing SVG" />
 </p>
 
 <p>
-  <a href="https://github.com/iamgem01">
-    <img src="https://img.shields.io/badge/GitHub-iamgem01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tran-bich-ngoc-224b26245/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tran%20Bich%20Ngoc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/channels/@gemisme">
-    <img src="https://img.shields.io/badge/Discord-@gemisme-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <a href="https://github.com/iamgem01">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tran-bich-ngoc-224b26245/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.com/channels/@gemisme">Discord</a>
 </p>
 
 </div>
 
-💻 About Me
+---
 
-I'm a Software Engineering student at the Da Nang University of Science and Technology, Viet Nam.
+## About Me
 
-I enjoy turning ideas into practical software — from designing interfaces and working with databases to building applications with modern web technologies.
+I'm a **Software Engineering student** at the **Da Nang University of Science and Technology, Viet Nam**.
 
-🧩 Software Engineering
-🌐 Web Development
-🗄️ Databases
-🎨 UI / UX with Figma
-🤖 AI-powered applications
-📚 Constant learning
+I'm interested in building software that is simple, useful, and well-structured.  
+Currently exploring web development, backend systems, databases, and AI-powered applications.
 
-🚀 What I Work With
+---
 
-Languages & Core Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js" alt="Programming languages"/>
-</p>
-
-Frameworks & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,mongodb,mysql,git,gitlab" alt="Development technologies"/>
-</p>
-
-Design & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ai" alt="Design and AI tools"/>
-</p>
-
-🛠️ Software Engineering Interests
-
-mindmap
-  root((Software Engineering))
-    Backend
-      Java
-      APIs
-      Database
-    Frontend
-      React
-      JavaScript
-      UI/UX
-    Data
-      MySQL
-      MongoDB
-    AI
-      AI Applications
-      Intelligent Features
-    Engineering
-      Git
-      GitLab
-      Collaboration
-
-📌 Featured Projects
-
-📝 Aeternus — Smart Note Application
-
-A smart note-taking concept focused on combining productivity, collaboration and AI-assisted features.
-
-Focus:
-Software Architecture · Java · Spring · React · MySQL · MongoDB · Redis · AI
-
-🥢 LocalEats — Local Specialty Platform
-
-A digital platform concept connecting customers with local specialty products and their makers.
-
-Focus:
-Product Design · Web Development · Business Logic · UI/UX
-
-📊 GitHub at a Glance
+## Languages & Technologies
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamgem01&show_icons=true&hide_border=true&count_private=true&rank_icon=github&theme=transparent" alt="Gemma's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgem01&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js,react,mysql,mongodb,git,gitlab,figma" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamgem01&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-</p>
+---
 
-🌱 Currently Learning
+## What I'm Learning
 
-▸ Writing cleaner and more maintainable code
-▸ Improving backend development skills
-▸ Building modern web applications
-▸ Strengthening database knowledge
-▸ Exploring AI integration in software products
+- Software architecture & backend development
+- Modern web development
+- Database design and management
+- AI integration in software applications
+- Writing cleaner and more maintainable code
 
-🎯 Engineering Mindset
+---
 
-Learn → Build → Break → Debug → Improve → Repeat
+## A Little About My Work
 
-I believe good software is not only about making something work,
-but also about making it understandable, maintainable and useful.
+I enjoy working across different parts of the software development process:
 
-🤝 Connect With Me
+**Design** → **Develop** → **Test** → **Improve**
+
+From UI/UX and database design to application development, I like understanding how the pieces fit together rather than focusing on just one layer.
+
+---
 
 <div align="center">
 
-<a href="https://github.com/iamgem01">
-  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tran-bich-ngoc-224b26245/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/channels/@gemisme">
-  <img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord"/>
-</a>
+### Thanks for visiting my profile ♡
 
-✨ Code with curiosity. Build with purpose.
+*Learn. Build. Improve.*
 
 </div>
+'''
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6FCF97&height=100&section=footer" alt="Footer"/>
-
-</div>
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Updated: {path}")
