@@ -32,8 +32,6 @@ I enjoy turning ideas into practical software — from designing interfaces and 
 🌐 Web Development
 🗄️ Databases
 🎨 UI / UX with Figma
-🤖 AI-powered applications
-📚 Constant learning
 
 🚀 What I Work With
 
@@ -57,45 +55,10 @@ Design & Tools
 
 🛠️ Software Engineering Interests
 
-mindmap
-  root((Software Engineering))
-    Backend
-      Java
-      APIs
-      Database
-    Frontend
-      React
-      JavaScript
-      UI/UX
-    Data
-      MySQL
-      MongoDB
-    AI
-      AI Applications
-      Intelligent Features
-    Engineering
-      Git
-      GitLab
-      Collaboration
-
-📌 Featured Projects
-
-📝 Aeternus — Smart Note Application
-
-A smart note-taking concept focused on combining productivity, collaboration and AI-assisted features.
-
-Focus:
-Software Architecture · Java · Spring · React · MySQL · MongoDB · Redis · AI
-
-🥢 LocalEats — Local Specialty Platform
-
-A digital platform concept connecting customers with local specialty products and their makers.
-
 Focus:
 Product Design · Web Development · Business Logic · UI/UX
 
 📊 GitHub at a Glance
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamgem01&show_icons=true&hide_border=true&count_private=true&rank_icon=github&theme=transparent" alt="Gemma's GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgem01&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
