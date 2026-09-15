@@ -1,13 +1,10 @@
 <div align="center">
 
-👋 Hi, I'm Gemma
-
-Software Engineering Student · Builder · Lifelong Learner
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=4A90E2&center=true&vCenter=true&width=650&lines=Hi+guys%2C+I'm+Gemma!;Bonjour+%C3%A0+tous%2C+je+suis+Gemme!;I'm+studying+Software+Engineering;Building+things+with+code+%26+curiosity;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </p>
-Connect with me:
+
+Software Engineering Student · Builder · Lifelong Learner
 <p>
   <a href="https://github.com/iamgem01">
     <img src="https://img.shields.io/badge/GitHub-iamgem01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -65,6 +62,6 @@ but also about making it understandable, maintainable and useful.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6FCF97&height=100&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer" alt="Footer"/>
 
 </div>
