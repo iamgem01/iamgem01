@@ -58,7 +58,7 @@ but also about making it understandable, maintainable and useful.
 </div>
 
 <div align="center">
-<img src="assets/ascii-cat.gif" width="480" alt="ASCII cat blinking and waving its tail" />
+<img src="ascii-cat.gif" width="480" alt="ASCII cat blinking and waving its tail" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer" alt="Footer"/>
 
