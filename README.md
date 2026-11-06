@@ -25,13 +25,6 @@ I'm a Software Engineering student at the Da Nang University of Science and Tech
 
 I enjoy turning ideas into practical software — from designing interfaces to building applications with modern web technologies.
 
-🛠️ Software Engineering Interests
-
-📊 GitHub at a Glance
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamgem01&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-</p>
-
 🌱 Currently Learning
 
 ▸ Writing cleaner and more maintainable code
@@ -59,7 +52,5 @@ but also about making it understandable, maintainable and useful.
 
 <div align="center">
 <img src="ascii-cat.gif" width="480" alt="ASCII cat blinking and waving its tail" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer" alt="Footer"/>
 
 </div>
