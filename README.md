@@ -23,17 +23,9 @@ Software Engineering Student · Builder · Lifelong Learner
 
 I'm a Software Engineering student at the Da Nang University of Science and Technology, Viet Nam.
 
-I enjoy turning ideas into practical software — from designing interfaces and working with databases to building applications with modern web technologies.
-
-🧩 Software Engineering
-🌐 Web Development
-🗄️ Databases
-🎨 UI / UX with Figma
+I enjoy turning ideas into practical software — from designing interfaces to building applications with modern web technologies.
 
 🛠️ Software Engineering Interests
-
-Focus:
-Product Design · Web Development · Business Logic · UI/UX
 
 📊 GitHub at a Glance
 <p align="center">
@@ -47,10 +39,15 @@ Product Design · Web Development · Business Logic · UI/UX
 ▸ Building modern web applications
 ▸ Strengthening database knowledge
 ▸ Exploring AI integration in software products
+▸ Software Testing<br>
+▸ Artificial Intelligence & Machine Learning<br>
+▸ Cybersecurity<br>
+▸ DevOps & Cloud Computing<br>
+▸ System Monitoring
 
 🎯 Engineering Mindset
 
-Learn → Build → Break → Debug → Improve → Repeat
+Tinker → Learn → Build → Break → Debug → Improve → Repeat
 
 I believe good software is not only about making something work,
 but also about making it understandable, maintainable and useful.
@@ -61,6 +58,7 @@ but also about making it understandable, maintainable and useful.
 </div>
 
 <div align="center">
+<img src="assets/ascii-cat.gif" width="480" alt="ASCII cat blinking and waving its tail" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer" alt="Footer"/>
 
