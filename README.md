@@ -27,11 +27,10 @@ I enjoy turning ideas into practical software — from designing interfaces to b
 
 🌱 Currently Learning
 
-▸ Writing cleaner and more maintainable code
-▸ Improving backend development skills
-▸ Building modern web applications
-▸ Strengthening database knowledge
-▸ Exploring AI integration in software products
+▸ Writing cleaner and more maintainable code<br>
+▸ Improving backend development skills<br>
+▸ Building modern web applications<br>
+▸ Exploring AI integration in software products<br>
 ▸ Software Testing<br>
 ▸ Artificial Intelligence & Machine Learning<br>
 ▸ Cybersecurity<br>
