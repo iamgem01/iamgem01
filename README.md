@@ -24,7 +24,11 @@ Currently Learning<br>
 
 </div>
 <div align="center">  
+  
   <strong>With Engineering Mindset:</strong>
+  
 <code>Tinker → Learn → Build → Break → Debug → Improve → Repeat</code>
+
   <img src="ascii-cat.gif" width="480" alt="ASCII cat blinking and waving its tail" />
+  
   <p>(ᯟ︿ᯏ) ᶻ 𝗓 𐰁 ⋆ Code with curiosity. Build with purpose.</p></div>
